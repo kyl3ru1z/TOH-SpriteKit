@@ -6,3 +6,6 @@ Created Towers Of Hanoi w/ SpriteKit. Towers of Hanoi consist of three towers an
 - Creating Game Assets
 - MVC Design Pattern
 - Utilizing Drag and Drop in SpriteKit
+
+# Demo
+<img src="gifs/toh_spritekit.gif" height="400">
